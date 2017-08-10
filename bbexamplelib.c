@@ -18,3 +18,8 @@ void LibHelloWorld()
 {
   printf("Hello World (from a shared library!)\n");
 }
+
+void LibHelloWorld2()
+{
+  printf("Hello World 2 (from a shared library!)\n");
+}
